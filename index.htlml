@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bean Haven Coffee</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+<h1>Bean Haven Coffee</h1>
+
+<nav>
+<button class="menu-toggle">☰ Menu</button>
+<ul class="nav-links">
+<li><a href="#about">About</a></li>
+<li><a href="#menu">Menu</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+</header>
+
+<section class="hero">
+<img src="coffee.jpg" alt="Cup of freshly brewed coffee">
+<h2>Your Daily Coffee Stop</h2>
+<p>Fresh roasted beans and handcrafted drinks.</p>
+<button>Order Online</button>
+</section>
+
+<section id="about">
+<h2>About Us</h2>
+<p>Bean Haven Coffee is a small neighborhood café focused on quality coffee and a welcoming atmosphere.</p>
+</section>
+
+<section id="menu">
+<h2>Popular Drinks</h2>
+
+<div class="menu-item">
+<h3>Latte</h3>
+<p>Smooth espresso with steamed milk.</p>
+</div>
+
+<div class="menu-item">
+<h3>Cappuccino</h3>
+<p>Rich espresso topped with foam.</p>
+</div>
+
+<div class="menu-item">
+<h3>Iced Coffee</h3>
+<p>Cold brewed for a refreshing taste.</p>
+</div>
+
+</section>
+
+<section id="contact">
+<h2>Contact</h2>
+<p>Email: info@beanhaven.com</p>
+<p>Phone: (555) 123-4567</p>
+</section>
+
+<footer>
+<p>© 2026 Bean Haven Coffee</p>
+</footer>
+
+</body>
+</html>
